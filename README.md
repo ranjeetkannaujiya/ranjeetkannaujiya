@@ -1,4 +1,12 @@
+# 💫 Hi 👋, I'm Ranjeet Kannaujiya
+**I'm Back-end Developer || Software Developer*
 
+Email Me 👉 ✉️ **rk9695411360@gmail.com** For Internship or Job. 😊😊
+
+- 🌱 **I’m currently learning:** Backend Development
+- 👯 **I’m looking to Internship or Job on:** Backend Python developer
+- 📫 **How to reach me:** rk9695411360@gmail.com
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ranjeet.k45) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ranjeet-kannaujiya) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rk9695411360@gmail.com) 
 
